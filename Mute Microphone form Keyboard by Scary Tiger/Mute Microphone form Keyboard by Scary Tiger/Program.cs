@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Mute_Microphone_from_Keyboard_by_Scary_Tiger
+namespace Mute_Microphone_form_Keyboard_by_Scary_Tiger
 {
     static class Program
     {

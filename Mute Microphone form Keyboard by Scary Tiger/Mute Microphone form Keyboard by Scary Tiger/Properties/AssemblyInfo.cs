@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Le informazioni generali relative a un assembly sono controllate dal seguente 
 // set di attributi. Modificare i valori di questi attributi per modificare le informazioni
 // associate a un assembly.
-[assembly: AssemblyTitle("Mute Microphone from Keyboard by Scary Tiger")]
+[assembly: AssemblyTitle("Mute Microphone form Keyboard by Scary Tiger")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Mute Microphone from Keyboard by Scary Tiger")]
+[assembly: AssemblyProduct("Mute Microphone form Keyboard by Scary Tiger")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Se il progetto viene esposto a COM, il GUID seguente verrà utilizzato come ID della libreria dei tipi
-[assembly: Guid("a4bcd2c0-8456-4023-8e91-ad0c9fbd4fe6")]
+[assembly: Guid("fe7e2099-dcec-42c1-94f2-efe378aa2849")]
 
 // Le informazioni sulla versione di un assembly sono costituite dai seguenti quattro valori:
 //

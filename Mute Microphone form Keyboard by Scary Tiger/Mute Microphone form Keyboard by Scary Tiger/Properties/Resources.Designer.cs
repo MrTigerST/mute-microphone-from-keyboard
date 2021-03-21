@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Mute_Microphone_from_Keyboard_by_Scary_Tiger.Properties
+namespace Mute_Microphone_form_Keyboard_by_Scary_Tiger.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Mute_Microphone_from_Keyboard_by_Scary_Tiger.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Mute_Microphone_from_Keyboard_by_Scary_Tiger.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Mute_Microphone_form_Keyboard_by_Scary_Tiger.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
