@@ -1,0 +1,26 @@
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\Mute Microphone from Keyboard by Scary Tiger.exe.config
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\Mute Microphone from Keyboard by Scary Tiger.exe
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\Mute Microphone from Keyboard by Scary Tiger.pdb
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\NAudio.Asio.dll
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\NAudio.Core.dll
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\NAudio.dll
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\NAudio.Midi.dll
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\NAudio.Wasapi.dll
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\NAudio.WinForms.dll
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\NAudio.WinMM.dll
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\System.Security.AccessControl.dll
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\NAudio.xml
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\System.Security.AccessControl.xml
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\obj\Debug\Mute Microphone from Keyboard by Scary Tiger.csprojAssemblyReference.cache
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\obj\Debug\Mute_Microphone_from_Keyboard_by_Scary_Tiger.Form1.resources
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\obj\Debug\Mute_Microphone_from_Keyboard_by_Scary_Tiger.Form2.resources
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\obj\Debug\Mute_Microphone_from_Keyboard_by_Scary_Tiger.Properties.Resources.resources
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\obj\Debug\Mute Microphone from Keyboard by Scary Tiger.csproj.GenerateResource.cache
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\obj\Debug\Mute Microphone from Keyboard by Scary Tiger.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\obj\Debug\Mute Microphone from Keyboard by Scary Tiger.csproj.CopyComplete
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\obj\Debug\Mute Microphone from Keyboard by Scary Tiger.exe
+C:\Users\franc\Documents\Visual Studio 2019\Project\Mute Microphone from Keyboard by Scary Tiger\Mute Microphone from Keyboard by Scary Tiger\obj\Debug\Mute Microphone from Keyboard by Scary Tiger.pdb
