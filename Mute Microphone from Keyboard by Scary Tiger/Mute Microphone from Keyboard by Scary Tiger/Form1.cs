@@ -19,9 +19,9 @@ namespace Mute_Microphone_from_Keyboard_by_Scary_Tiger
         }
 
         //Il codice è stato scritto da Scary Tiger (Mr Tiger). 
-        //Licenza MIT Libera (Copyleft) ma vietato modificare i diritti d'Autore.
-        //E' stato utilizzato GitHub SOLO per collaborare.
-        //Il programma ha disponibile solo 2 lingue: Inglese e Italiano.      Predenfinito: Inglese.
+        //Licenza MIT Libera (Copyleft)[Expat]
+
+        //Nel programma disponibili solo 2 lingue: Inglese e Italiano.      Predenfinito: Inglese.
         private void microphoneSelectedToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MMDeviceEnumerator names = new MMDeviceEnumerator();
